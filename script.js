@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const profile = {
     name: "Cristian De Avila",
     location: "Barranquilla, Colombia",
-    description: `"Front-end developer, HTML, CSS, JAVASCRIPT"`,
+    description:`"Front-end developer | JAVASCRIPT | REACT | NEXT.JS"`,
     photo: "./assets/images/FOTO WSE CRISTIAN.png"
   };
 
