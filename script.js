@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { name: "GitHub", url: "https://github.com/candresdeavila" },
     { name: "Frontend Mentor", url: "https://www.frontendmentor.io/profile/candresdeavila" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/cristiandeavilacd/" },
-    { name: "Tiktok", url: "https://www.tiktok.com/@cristiandeavila.cd?_t=ZS-8wbBaUy2r7S&_r=1" },
+    { name: "Tiktok", url: "https://www.tiktok.com/@cristiandeavila.cd?_r=1&_t=ZS-96OjwXik0rA" },
     { name: "Instagram", url: "https://www.instagram.com/cristiandeavila.cd/#" }
   ];
 
